@@ -17,3 +17,13 @@ Then you can apply this knowledge on any other platform/framework you prefer, fo
 - [OpenFramework](https://github.com/patriciogonzalezvivo/thebookofshaders/tree/master/04/openFrameworks)
 - [Processing](https://github.com/patriciogonzalezvivo/thebookofshaders/tree/master/04/processing)
 
+
+Topics:
+
+- [What are shaders?](http://thebookofshaders.com/01/)
+- [Special I/O componentes: *gl_FragCoord*, *gl_FragColor*](http://thebookofshaders.com/02/) and [*uniforms*](http://thebookofshaders.com/03/).
+- [Shaping Functions](http://thebookofshaders.com/05/)
+- [Making shapes with distance functions](http://thebookofshaders.com/07/)
+- [Composing patterns](http://thebookofshaders.com/09/)
+- [Building up complexity](http://thebookofshaders.com/11/)
+
