@@ -18,7 +18,7 @@ Then you can apply this knowledge on any other platform/framework you prefer, fo
 - [Processing](https://github.com/patriciogonzalezvivo/thebookofshaders/tree/master/04/processing)
 
 
-Topics:
+## Topics
 
 [First day](https://patriciogonzalezvivo.github.io/sfpc_ll16/)
 - [What are shaders?](http://thebookofshaders.com/01/)
