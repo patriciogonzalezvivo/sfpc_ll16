@@ -1,4 +1,4 @@
-![](images/hermes.jpg)
+![](imgs/hermes.png)
 
 # Introduction to Lingua Lucis at SFPC
 
